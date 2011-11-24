@@ -24,7 +24,7 @@ import com.cycling74.max.*;
  *
  */
 public class Dissimilarity extends MaxObject {
-
+    
 	/**
 	 * 
 	 */
