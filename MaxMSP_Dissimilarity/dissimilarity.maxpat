@@ -7,9 +7,9 @@
 			"revision" : 9
 		}
 ,
-		"rect" : [ 31.0, 168.0, 907.0, 670.0 ],
+		"rect" : [ 341.0, 148.0, 907.0, 670.0 ],
 		"bglocked" : 0,
-		"defrect" : [ 31.0, 168.0, 907.0, 670.0 ],
+		"defrect" : [ 341.0, 148.0, 907.0, 670.0 ],
 		"openrect" : [ 0.0, 0.0, 0.0, 0.0 ],
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1277,14 +1277,15 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "message",
-					"text" : "open E:bensonaudioaudioForDissimilarityJudgementsStringsIR_00_SF_StMarks_14_SpkrALTAR_MicPos4_3m.wav",
+					"text" : "open E:bensonaudioaudioForDissimilarityJudgementssnare_drumIR_00_Ramezay_SpeakerCloset_Back_2m_high_001.wav",
+					"linecount" : 2,
 					"fontname" : "Arial",
 					"numinlets" : 2,
 					"id" : "obj-14",
 					"numoutlets" : 1,
 					"fontsize" : 12.0,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 216.0, 464.0, 648.0, 18.0 ]
+					"patching_rect" : [ 216.0, 464.0, 648.0, 32.0 ]
 				}
 
 			}
@@ -1337,7 +1338,7 @@
 					"fontname" : "Arial",
 					"numinlets" : 1,
 					"id" : "obj-8",
-					"presentation_rect" : [ 558.0, 59.0, 22.0, 20.0 ],
+					"presentation_rect" : [ 558.0, 59.0, 43.0, 20.0 ],
 					"numoutlets" : 2,
 					"triangle" : 0,
 					"fontsize" : 12.0,
@@ -1350,14 +1351,15 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "message",
-					"text" : "open E:bensonaudioaudioForDissimilarityJudgementsStringsIR_00_SF_StMarks_14_SpkrALTAR_MicPos4_3m.wav",
+					"text" : "open E:bensonaudioaudioForDissimilarityJudgementssnare_drumIR_00_Ramezay_SpeakerCloset_Back_2m_high_001.wav",
+					"linecount" : 2,
 					"fontname" : "Arial",
 					"numinlets" : 2,
 					"id" : "obj-6",
 					"numoutlets" : 1,
 					"fontsize" : 12.0,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 393.0, 420.0, 648.0, 18.0 ]
+					"patching_rect" : [ 393.0, 420.0, 648.0, 32.0 ]
 				}
 
 			}
@@ -1405,7 +1407,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "newobj",
-					"text" : "mxj ca.davebenson.MaxMSP.Dissimilarity E:\\\\benson\\\\audio\\\\audioForDissimilarityJudgements\\\\Strings\\\\ E:\\\\benson\\\\dave_test.dat",
+					"text" : "mxj ca.davebenson.MaxMSP.Dissimilarity E:\\\\benson\\\\audio\\\\audioForDissimilarityJudgements\\\\snare_drum\\\\ E:\\\\benson\\\\dave_snare_drum.dat",
 					"linecount" : 2,
 					"fontname" : "Arial",
 					"numinlets" : 1,
@@ -1413,7 +1415,7 @@
 					"numoutlets" : 5,
 					"fontsize" : 12.0,
 					"outlettype" : [ "", "", "int", "", "" ],
-					"patching_rect" : [ 131.0, 281.0, 566.0, 34.0 ]
+					"patching_rect" : [ 132.0, 284.0, 593.0, 34.0 ]
 				}
 
 			}
